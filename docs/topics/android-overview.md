@@ -1,4 +1,4 @@
-[//]: # (title: Kotlin for Android)
+[//]: # (title: Kotlin for Androidx)
 
 Android mobile development has been [Kotlin-first](https://developer.android.com/kotlin/first) since Google I/O in 2019.
 
